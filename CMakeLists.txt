@@ -7,3 +7,4 @@ set(CMAKE_C_STANDARD 11)
 add_executable(luogu main.cpp)
 
 add_executable(p1216 dp/p1216.c)
+add_executable(p1048 dp/p1048.c)
