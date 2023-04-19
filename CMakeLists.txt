@@ -8,3 +8,4 @@ add_executable(luogu main.cpp)
 
 add_executable(p1216 dp/p1216.c)
 add_executable(p1048 dp/p1048.c)
+add_executable(p2871 dp/p2871.c)
